@@ -1,0 +1,9 @@
+{
+    "webinarappApp": {
+        "PAYMENT" : {
+            "null": "",
+            "PAYPAL": "PAYPAL",
+            "STRIPE": "STRIPE"
+        }
+    }
+}
